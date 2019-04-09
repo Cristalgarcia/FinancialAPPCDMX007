@@ -1,5 +1,5 @@
 # Aplicación financiera
-revisando master 
+ 
 ## Preámbulo
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al
@@ -50,10 +50,9 @@ Manager del equipo les brinda el contexto:
 
 ![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
 
-### Recursos
+### Antecedentes 
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
-links, encontrarán:
+En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) se encuentran los siguientes links: 
 
 - Los user persona primario y secundario del proyecto
 - Los user flows iniciales y actuales del proyecto del MVP
@@ -63,45 +62,38 @@ links, encontrarán:
 - Data de uso del MVP de los primeros 6 meses
 - [Landing Page](http://fintechapp-laboratoria.pagedemo.co/) inicial del producto
 
-## Objetivos de aprendizaje
+# Objetivos del proyecto. 
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Muchas de ustedes terminarán trabajando en productos
-existentes y deben estar familiarizadas con el proceso de analizar la data del
-producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
-UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+El objetivo es rediseñar la aplicación financiera con base en la realización de un diagnóstico, analizar la data del producto, investigación de campo y pruebas de usabilidad para ofrecer una propuesta de diseño. 
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
+# Primer sprint 
 
-## Consideraciones generales
+Con base en los requerimientos y comentarios que fueron señalados por la Project Manager de la aplicación "Tus Finanzas" se detectaron los siguientes aspectos:  
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+## Diagnóstico
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+### Análisis de la data
+Tras analizar el Funnel Analytics y el uso del MVP de los primeros 6 meses del MVP se obtuvieron estos hallazgos:
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y con base en eso
-proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+![Analytics]()
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+### Testing con usuarios
+Para conocer los pains y gains de la aplicación se realizó el testing a 33 usuarios obteniendo la siguiente información:
+![Data]()
+
+Insights de usuarios
+![Insights]()
+
+Con base a ello se obtuvo el user persona de la aplicación financiera. 
+![User persona]()
+
+### Heurística  de Nielsen
+Se le realizó un [análisis heurístico] para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
+
+
+
+
+
 
 La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
 si no conoces plataformas financieras parte por investigar sobre ellas. No
@@ -223,16 +215,3 @@ que deberías alcanzar al finalizar este proyecto:
 |Prototyping|
 |Business mindset|
 |Visual Design|
-
-### Soft skills
-
-|Habilidad|
-|:---|
-|Planificación y organización|
-|Autoaprendizaje|
-|Solución de Problemas|
-|Dar y recibir feedback|
-|Adaptabilidad|
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)|
-|Comunicación eficaz|
-|Presentaciones|

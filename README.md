@@ -96,14 +96,14 @@ Para conocer los pains y gains de la aplicación se realizó el testing a 33 usu
 Insights de usuarios
 ![Insights](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20insight.jpg)
 
-Con base a ello y en la creación de [ejes de comportamiento]() se obtuvo el user persona de la aplicación financiera. 
+Con base a ello y en la creación de [ejes de comportamiento](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Ejes.jpg) se obtuvo el user persona de la aplicación financiera. 
 ![User persona](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20persona.jpg)
 
 ### Heurística  de Nielsen
 Se realizó un [análisis heurístico](https://docs.google.com/spreadsheets/d/1CwpM3RXDBQZytdJBXpfiUY4Qw1lqOffqr3Xgh617gRo/edit?usp=sharing) para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
 
 ### Coustomer Journey Map
-se elaboró un coustomer journey map con la intención de conocer los sentimientos, emociones y la experiencia de los usuarios entorno a los difernetes momentos de la aplicación. Los resultados arrojaron que los usuarios presentaron más dificultad de navegación en el apartado de agregar una fotografía de perfil y crear una cuenta de ahorro. 
+se elaboró un coustomer journey map con la intención de conocer los sentimientos, las emociones y las experiencias de los usuarios entorno a los difernetes momentos de la aplicación. Los resultados arrojaron que los usuarios presentaron más dificultad de navegación en el apartado de agregar una fotografía de perfil y crear una cuenta de ahorro. 
 
 ![Coustomer journey map](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Costumer%20Journey%20Map.jpg)
 
@@ -112,6 +112,9 @@ Los objetivos de la segunda iteracción se basaron en generar una propuesta de r
 
 ## Reto de diseño
 Las propuestas de diseño que se definieron consisiteron en: 
+
+## Arquitectua de la información.
+![arquitectura](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/flowmap_tus%20finanzas.png)
 
 ## Prototipado
 El rediseño de la aplicaicón "Tus Finanzas" se realizó en Figma, mientras que el flujo de navegación se ejecutó en Marvel. 

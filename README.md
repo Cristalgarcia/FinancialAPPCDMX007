@@ -68,9 +68,14 @@ El objetivo es rediseñar la aplicación financiera con base en la realización 
 
 # Primer sprint 
 
-Con base en los requerimientos y comentarios que fueron señalados por la Project Manager de la aplicación "Tus Finanzas" se detectaron los siguientes aspectos:  
+Con base en los requerimientos y comentarios señalados por la Project Manager de la aplicación "Tus Finanzas" se detectaron los siguientes aspectos:  
 
 ![Project Manager](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Project%20Manager.jpg)
+
+## Contexto
+A través de revisar la documentación pertinente entorno a las aplicacines financieras, la cultura del ahorro en México y la áreas de oportunidad se identificaron insights para conocer el contexto del merecado financiero. 
+![Contexto]()
+Fuente:[Estudio de consumo de medios y dispositivos 2018. Corte Financiero](https://drive.google.com/file/d/1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK/view?usp=sharing)
 
 ## Diagnóstico
 

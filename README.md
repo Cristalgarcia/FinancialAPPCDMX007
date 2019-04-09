@@ -70,49 +70,34 @@ El objetivo es rediseñar la aplicación financiera con base en la realización 
 
 Con base en los requerimientos y comentarios que fueron señalados por la Project Manager de la aplicación "Tus Finanzas" se detectaron los siguientes aspectos:  
 
+![Project Manager](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Project%20Manager.jpg)
+
 ## Diagnóstico
 
 ### Análisis de la data
 Tras analizar el Funnel Analytics y el uso del MVP de los primeros 6 meses del MVP se obtuvieron estos hallazgos:
 
-![Analytics]()
+![Analytics](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Analytics.jpg)
 
 ### Testing con usuarios
 Para conocer los pains y gains de la aplicación se realizó el testing a 33 usuarios obteniendo la siguiente información:
-![Data]()
+![Data](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Testing.jpg)
 
 Insights de usuarios
 ![Insights]()
 
 Con base a ello se obtuvo el user persona de la aplicación financiera. 
-![User persona]()
+![User persona](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20persona.jpg)
 
 ### Heurística  de Nielsen
-Se le realizó un [análisis heurístico] para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
+Se realizó un [análisis heurístico](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Heur%C3%ADstica.jpg) para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
 
 
 
 
 
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu con consultora y el cliente, cada
-desición que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
-
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
-diseño de tus láminas y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente. En la presentación no deben ocurrir errores.
 
 ## Entrega
 
@@ -140,33 +125,8 @@ Un video en Loom de máximo 5 minutos explicando tu documento.
 En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
 agregar los documentos complementarios que sustenten tu proceso.
 
-### Hacker edition
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-  utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y
-  JS. Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene
-  que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Genius Scan](https://youtu.be/wKqnB6_Z-J0)
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
-
-## Otras consideraciones
 
 ### 1) Planeamiento y presupuesto
 
@@ -195,23 +155,4 @@ ya que para el testing tendrás que usar una herramienta llamada
 Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
 como: contraste, alineación, jerarquía, entre otros.
 
-## Evaluación
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
-
-### UX Design
-
-|Habilidad|
-|:---|
-|User centricity| 
-|Planificación| 
-|Entrevistas y testing|
-|Observación|
-|Síntesis de resultados|
-|Flujos de usuario|
-|Arquitectura de la información|
-|Prototyping|
-|Business mindset|
-|Visual Design|

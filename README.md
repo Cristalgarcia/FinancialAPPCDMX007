@@ -1,5 +1,5 @@
 # Aplicación financiera
-Revisando la rama master git 
+revisando master 
 ## Preámbulo
 
 El banco más importante del país ha lanzado una nueva aplicación móvil al

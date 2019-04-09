@@ -77,6 +77,11 @@ A través de revisar la documentación pertinente entorno a las aplicacines fina
 ![Contexto]()
 Fuente:[Estudio de consumo de medios y dispositivos 2018. Corte Financiero](https://drive.google.com/file/d/1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK/view?usp=sharing)
 
+### Benchmarck 
+Para análizar a los competidores indirectos de la aplicación se eleboró un benchmark de las aplicaciones bancarias nacionales, internacionales y digitalmente nativas para conocer sus beneficios, target, contenido, dispositivos, medidas de seguriad, proceso de registro y pains con el objetivo de encontrar áreas de oportunidad. 
+
+![Benchmark]()
+
 ## Diagnóstico
 
 ### Análisis de la data
@@ -89,75 +94,23 @@ Para conocer los pains y gains de la aplicación se realizó el testing a 33 usu
 ![Data](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Testing.jpg)
 
 Insights de usuarios
-![Insights]()
+![Insights](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20insight.jpg)
 
 Con base a ello se obtuvo el user persona de la aplicación financiera. 
 ![User persona](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20persona.jpg)
 
 ### Heurística  de Nielsen
-Se realizó un [análisis heurístico](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Heur%C3%ADstica.jpg) para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
+Se realizó un [análisis heurístico](https://docs.google.com/spreadsheets/d/1CwpM3RXDBQZytdJBXpfiUY4Qw1lqOffqr3Xgh617gRo/edit?usp=sharing) para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
+
+### Coustomer Journey Map
+se elaboró un coustomer journey map con la intención de conocer los sentimientos, emociones y la experiencia de los usuarios entorno a los difernetes momentos de la aplicación. Los resultados arrojaron que los usuarios presentaron más dificultad de navegación en el apartado de agregar una fotografía de perfil y crear una cuenta de ahorro. 
+
+![Coustomer journey map]()
+
+La elaboración de un coustomer journey map tuvo como intención conocer los sentimientos y emociones de los usuarios con relación a los diferentes momentos la aplicación 
 
 
+#Prototipo de alta fideliad
 
-
-
-
-
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  detallando:
-
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app (estas
-  recomendaciones tendrán que ser sustentadas por tu investigación):
-  * Qué modificaciones se deberían hacer
-  * Cuáles deberían ser los próximos desarrollos
-  * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
-
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
-
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
-
-
-
-
-### 1) Planeamiento y presupuesto
-
-En el reto del marketplace elegiste las tareas que podías
-realizar deacuerdo a una lista con puntajes predeterminados que te proporcionamos. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicionalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
-
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
-
-### 2) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
-
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
 
 

@@ -126,7 +126,7 @@ Las propuestas de diseño que se definieron consisiteron en:
 #### Primer Testing  
 La aplicación se mostró a tres personas para evaluar el diseño de la Home, principalmente para identificar si el contenido era claro y si los iconos del navegador fijo eran entendibles. Como resultado, los usuarios mostraron confusión ya que la información era interpretada como botones y como un navegador extra al existente, por tal motivo se eliminó el exceso de información. Asimismo, los iconos del navegador eran confusos por tal motivo se incluyó el título de cada uno para identificarlos con mayor rapidez.
 
-![Notas]()
+![Primer testing](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Testing%20primera%20iteraci%C3%B3n.jpg)
 
 Home de la primera iteración
 ![Home](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Primera%20pantalla.PNG)
@@ -137,11 +137,15 @@ El rediseño de la aplicación tuvo un primer momento con base en los hallazgos 
 #### Segunda iteración
 La aplicación fue testeada con cinco personas, las observaciones fueron las siguientes: 
 
-![Segundo Testing]()
+![Segundo Testing](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Testing%20segunda%20iteraci%C3%B3n.jpg)
 
 #### Prototipo final
 - Para consultar el prototipo final de alta fidelidad  dar click [aquí](https://marvelapp.com/b687j2e/screen/55362427). 
 - Para visualizar el video del flujo final en loom dar click [aquí](https://www.loom.com/share/028d1129a8b34a1fbc8a782b3f906876). 
+
+
+## Adicional 
+- Video loom de documentación 
 
 
 

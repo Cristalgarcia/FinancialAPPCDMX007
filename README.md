@@ -64,7 +64,7 @@ En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NW
 
 # Objetivo del proyecto
 
-El objetivo es rediseñar la aplicación financiera con base en la realización de un diagnóstico, analizar la data del producto, investigación de campo y pruebas de usabilidad para ofrecer una propuesta de diseño. 
+El objetivo del proyecto es rediseñar la aplicación financiera "Tus Finanzas" con base en la realización de un diagnóstico, analizar la data del producto, investigación de campo y pruebas de usabilidad para ofrecer una propuesta de diseño. 
 
 # Primer sprint 
 
@@ -73,42 +73,42 @@ Con base en los requerimientos y comentarios señalados por la Project Manager d
 ![Project Manager](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Project%20Manager.jpg)
 
 ## Contexto
-A través de revisar la documentación pertinente entorno a las aplicacines financieras, la cultura del ahorro en México y la áreas de oportunidad se identificaron insights para conocer el contexto del merecado financiero. 
+A través de revisar la documentación pertinente entorno a las aplicaciones financieras, la cultura del ahorro en México y la áreas de oportunidad en el país se identificaron insights entorno al mercado financiero.  
 ![Contexto](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Contexto.jpg)
-Fuente:[Estudio de consumo de medios y dispositivos 2018. Corte Financiero](https://drive.google.com/file/d/1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK/view?usp=sharing)
+Fuente: [Estudio de consumo de medios y dispositivos 2018. Corte Financiero](https://drive.google.com/file/d/1BWRq19LnMxY7g7x5F-KhYbfg1EzI8nTK/view?usp=sharing)
 
 ### Benchmarck 
-Para análizar a los competidores indirectos de la aplicación se eleboró un benchmark de las aplicaciones bancarias nacionales, internacionales y digitalmente nativas para conocer sus beneficios, target, contenido, dispositivos, medidas de seguriad, proceso de registro y pains con el objetivo de encontrar áreas de oportunidad. 
+Para analizar a los competidores indirectos de la aplicación se elaboró un benchmark de las aplicaciones bancarias nacionales, internacionales y digitalmente nativas para conocer sus beneficios, target, contenido, dispositivos, medidas de seguridad, proceso de registro y pains con el objetivo de encontrar áreas de oportunidad.
 
 ![Benchmark](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Benchmarck.jpg)
 
 ## Diagnóstico
 
 ### Análisis de la data
-Tras analizar el Funnel Analytics y el uso del MVP de los primeros 6 meses del MVP se obtuvieron estos hallazgos:
+Tras analizar el funnel Analytics y el uso del MVP de los primeros 6 meses se obtuvieron estos hallazgos:
 
 ![Analytics](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Analytics.jpg)
 
 ### Testing con usuarios
-Para conocer los pains y gains de la aplicación se realizó el testing a 33 usuarios obteniendo la siguiente información:
+Para conocer los pains y gains de la aplicación se realizó el testeo a 33 usuarios con las siguientes características:
 ![Data](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Testing.jpg)
 
-Insights de usuarios
+Los pains y gains de los usuarios a quienes se les realizó el testing son:
 ![Insights](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20insight.jpg)
 
 Con base a ello y en la creación de [ejes de comportamiento](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Ejes.jpg) se obtuvo el user persona de la aplicación financiera. 
 ![User persona](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/User%20persona.jpg)
 
 ### Heurística  de Nielsen
-Se realizó un [análisis heurístico](https://docs.google.com/spreadsheets/d/1CwpM3RXDBQZytdJBXpfiUY4Qw1lqOffqr3Xgh617gRo/edit?usp=sharing) para análizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
+Se realizó un [análisis heurístico](https://docs.google.com/spreadsheets/d/1CwpM3RXDBQZytdJBXpfiUY4Qw1lqOffqr3Xgh617gRo/edit?usp=sharing) para analizar la usabilidad de la interfaz, comprender la identidad e información, lenguaje y redacción, rotulado, estructura y navegación, lay-out de la página, búsqueda, elementos multimedia, ayuda, accesibilidad, y control.
 
 ### Coustomer Journey Map
-se elaboró un coustomer journey map con la intención de conocer los sentimientos, las emociones y las experiencias de los usuarios entorno a los difernetes momentos de la aplicación. Los resultados arrojaron que los usuarios presentaron más dificultad de navegación en el apartado de agregar una fotografía de perfil y crear una cuenta de ahorro. 
+Elaboración de un coustomer journey map con la intención de conocer los sentimientos, las emociones y las experiencias de los usuarios entorno a los diferentes momentos de la aplicación. Los resultados arrojaron que los usuarios presentaron más dificultad de navegación en el apartado de agregar una fotografía para el perfil y crear una cuenta de ahorro. 
 
 ![Coustomer journey map](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Costumer%20Journey%20Map.jpg)
 
 # Segundo Sprint 
-Los objetivos de la segunda iteracción se basaron en generar una propuesta de rediseño con base a la información recabada en el primer sprint, prototipado de rediseño, realizar pruebas de usabilidad y establecer los siguientes pasos. 
+Los objetivos de la segunda iteración se basan  en generar una propuesta de rediseño con base a la información recabada en el primer sprint, prototipado de rediseño, realizar pruebas de usabilidad y establecer los siguientes pasos. 
 
 ## Reto de diseño
 Las propuestas de diseño que se definieron consisiteron en: 
@@ -117,15 +117,26 @@ Las propuestas de diseño que se definieron consisiteron en:
 ![arquitectura](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/flowmap_tus%20finanzas.png)
 
 ## Prototipado
-El rediseño de la aplicaicón "Tus Finanzas" se realizó en Figma, mientras que el flujo de navegación se ejecutó en Marvel. 
+- Los mockups de la aplicación pueden ser consultados [aquí](https://docs.google.com/document/d/15fOJTfhHzOB4uaYPKWaqjzjbOLOoa4z8h0t6v7GxhaI/edit?usp=sharing).
+
+- El rediseño de la aplicaicón "Tus Finanzas" se realizó en Figma, mientras que el flujo de navegación se ejecutó en Marvel. 
 
 ### Prototipo de alta fideliad
 #### Primera iteración 
 El rediseño de la aplicación tuvo un primer momento con base en los hallazgos antes mencionados. Consultar el prototipo en el [link](https://www.loom.com/share/1704d1bcbe844b2786a926c8fc853c6d).
 
-#### Segunda iteración
-Con base en los testeos se aplicaron los cambios pertinentes para obtener el diseño final.
+#### Testing: Primera iteración 
+La aplicación se mostró a tres personas para evaluar el diseño de la Home, principalmente para identificar si el contenido era claro y si los iconos del navegador fijo eran entendibles. Como resultado, los usuarios mostraron confusión ya que la información era interpretada como botones y como un navegador extra al existente, por tal motivo se eliminó el exceso de información. Asimismo, los iconos del navegador eran confusos por tal motivo se incluyó el título de cada uno para identificarlos con mayor rapidez.
 
+Home de la primera iteración
+![Home]()
+
+#### Segunda iteración
+La aplicación fue testeada con cinco personas, las observaciones fueron las siguientes: 
+
+
+
+#### Prototipo final
 - Para consultar el prototipo final de alta fidelidad  dar click [aquí](https://marvelapp.com/b687j2e/screen/55362427). 
 - Para visualizar el video del flujo final en loom dar click [aquí](https://www.loom.com/share/028d1129a8b34a1fbc8a782b3f906876). 
 

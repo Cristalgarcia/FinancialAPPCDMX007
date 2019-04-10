@@ -112,6 +112,7 @@ Los objetivos de la segunda iteración se basan  en generar una propuesta de red
 
 ## Reto de diseño
 Las propuestas de diseño que se definieron consisiteron en: 
+![Propuesta de diseño](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Reto%20de%20dise%C3%B1o.jpg)
 
 ## Arquitectua de la información.
 ![arquitectura](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/flowmap_tus%20finanzas.png)
@@ -129,7 +130,7 @@ El rediseño de la aplicación tuvo un primer momento con base en los hallazgos 
 La aplicación se mostró a tres personas para evaluar el diseño de la Home, principalmente para identificar si el contenido era claro y si los iconos del navegador fijo eran entendibles. Como resultado, los usuarios mostraron confusión ya que la información era interpretada como botones y como un navegador extra al existente, por tal motivo se eliminó el exceso de información. Asimismo, los iconos del navegador eran confusos por tal motivo se incluyó el título de cada uno para identificarlos con mayor rapidez.
 
 Home de la primera iteración
-![Home]()
+![Home](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Primera%20pantalla.PNG)
 
 #### Segunda iteración
 La aplicación fue testeada con cinco personas, las observaciones fueron las siguientes: 

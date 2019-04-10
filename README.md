@@ -123,19 +123,21 @@ Las propuestas de diseño que se definieron consisiteron en:
 - El rediseño de la aplicaicón "Tus Finanzas" se realizó en Figma, mientras que el flujo de navegación se ejecutó en Marvel. 
 
 ### Prototipo de alta fideliad
-#### Primera iteración 
-El rediseño de la aplicación tuvo un primer momento con base en los hallazgos antes mencionados. Consultar el prototipo en el [link](https://www.loom.com/share/1704d1bcbe844b2786a926c8fc853c6d).
-
-#### Testing: Primera iteración 
+#### Primer Testing  
 La aplicación se mostró a tres personas para evaluar el diseño de la Home, principalmente para identificar si el contenido era claro y si los iconos del navegador fijo eran entendibles. Como resultado, los usuarios mostraron confusión ya que la información era interpretada como botones y como un navegador extra al existente, por tal motivo se eliminó el exceso de información. Asimismo, los iconos del navegador eran confusos por tal motivo se incluyó el título de cada uno para identificarlos con mayor rapidez.
+
+![Notas]()
 
 Home de la primera iteración
 ![Home](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Primera%20pantalla.PNG)
 
+#### Primera iteración
+El rediseño de la aplicación tuvo un primer momento con base en los hallazgos antes mencionados. Consultar el prototipo en el [link](https://www.loom.com/share/1704d1bcbe844b2786a926c8fc853c6d).
+
 #### Segunda iteración
 La aplicación fue testeada con cinco personas, las observaciones fueron las siguientes: 
 
-
+![Segundo Testing]()
 
 #### Prototipo final
 - Para consultar el prototipo final de alta fidelidad  dar click [aquí](https://marvelapp.com/b687j2e/screen/55362427). 

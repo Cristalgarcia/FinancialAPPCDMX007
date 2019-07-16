@@ -114,11 +114,11 @@ El prototipo navegable fue testeado con 33 usuarios con base en las dos user per
 
 ## Coustomer Journey Map
 El Coustomer Journey Map arrojó que, los usuarios tienen dificultad en agregar una fotografía para el perfil y el crear una cuenta de ahorro.
-![CJM]()
+![CJM](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/coustomer_journey_map_app.jpg)
 
 ## User Persona 
 El user persona se estableció con base en [los ejes de comportamiento](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/Imagenes/Ejes.jpg) y arquetipos.
-![User persona]()
+![User persona](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/user%20persona_finanzas.PNG)
 
 # Segundo Sprint 
 Los objetivos de la segunda iteración se basan  en generar una propuesta de rediseño con base a la información recabada en el primer sprint, prototipado de rediseño, realizar pruebas de usabilidad y establecer los siguientes pasos. 
@@ -138,7 +138,7 @@ El prototipo de la aplicación, Tus Finanzas, está realizada en Figma y el fluj
 ### Primer testing
 
 El rediseño del home se testeo con tres personas para evaluar si el contenido era claro y si los iconos del navegador fijo eran entendibles. Los comentarios fueron que la pantalla de inicio contenía mucha información; mostraron confusión debido a que la información parecían botones y era tomada como un navegador extra, por tal motivo, la información fue modificada. Asimismo, los usuarios indicaron que los iconos eran simples pero no sabían la funcionalidad de cada uno, para identificarlos se optó por incluir el titulo de cada uno.
-![Primer testing]()
+![Primer testing](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/home_primera%20iteracion.PNG)
 
 ### Primera iteración
 
@@ -160,16 +160,16 @@ El copy de la aplicación era "El banco contigo a donde vayas". Para transmitir 
 Antes del registró, la aplicación muestra tres slides con los objetivos principales de Tus Finanzas.
 
 Las medidas de seguridad implementadas son dos, password y touch ID; y las cuales pueden ser elegidas acorde a las preferencias del usuario y el diseño del dispositivo a usar.
-![REGISTRO]()
+![REGISTRO](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/inicio.PNG)
 
 El home de la aplicación muestra el saldo disponible en la tarjeta y el estatus de sus metas de ahorro. Por cada meta cumplida, el usuario optendrá un incentivo para alentar la conducta de ahorrar.
-![HOME]()
+![HOME](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/home.PNG)
 
 El usuario tiene la posibilidad de ver los detalles de sus movimientos como ubicación, fecha y tipo de operación.
-![DETALLES]()
+![DETALLES](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/movimientos%20y%20gastos.PNG)
 
 En la sección de Ahorro, el botón de crear una nueva meta es más grande y está centrado. El formulario de crear una meta de ahorro, tiene instrucciones en los imput para dirigir de forma correcta el llenado. Además, los usuarios tienen la posibilidad de ver el estatus de sus metas de ahorro, transferirlas, editarlas y pausarlas.
-![AHORRO]()
+![AHORRO](https://github.com/Cristalgarcia/FinancialAPPCDMX007/blob/master/assets/ahorro.PNG)
 
 ## Propuesta de valor
 
